@@ -1,6 +1,6 @@
-# CH341-Programmer
+# CH341A-Programmer
 
-*CH341 Programmer Setup Guide*
+*CH341A Programmer Setup Guide*
 
 ---
 
